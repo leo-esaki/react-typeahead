@@ -1,0 +1,11 @@
+.t-dropdown--open {
+  display: block;
+}
+
+.t-dropdown__item {
+  cursor: pointer;
+}
+
+.t-dropdown__item-title {
+  font-weight: bold;
+}
